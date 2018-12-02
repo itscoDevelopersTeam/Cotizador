@@ -1,0 +1,56 @@
+body{
+	background: #5B5B5B;
+	color: #FFFFFF;
+	font-family: 'Comic Sans Ms';
+	font-size: 18px;
+}
+/*Cabecera de la pagina web*/
+
+.contenedor{
+	background-image: url("../img/game club.jpg");
+	background-position: right;
+	border: 10px double;
+	border-radius: 10px;
+	border-color: #EAEAEA;
+	color: #114549;
+	font-family: 'Comic Sans MS';
+	font-size: 3em;
+	padding:  20px;
+	text-align: center;
+	top: 20;
+	height: 320px;
+}
+.main{
+	width:auto;
+	float: left;
+	background: #F4F4F5;	
+	border: 20px double;
+	padding: 35px;
+	display: block;
+	height:auto;
+	border-radius: double;
+}
+
+.main .posts{
+	padding: 50px;
+	width: 500px;
+}
+.main .posts article h2{
+	margin-bottom: 20px;
+	color: #424242;
+}
+.main .posts article p{
+	margin-bottom: 15px;
+	line-height: 27px;
+}
+
+/*From Contacto*/
+.integrantes{
+	padding-left: 16px;	
+	color: #000000;	
+	font-size: 1.68em;
+	height: 100%;
+	width: 80%;	
+
+}
+
