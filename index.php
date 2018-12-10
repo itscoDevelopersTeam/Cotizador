@@ -111,7 +111,7 @@
                     echo ("<div class=\"card-body\">");
                     echo ("<h4 class=\"card-title\">");
                     echo ("<a href=\"#\">$reg[nombre]</a></h4>");
-                    echo ("<h5>$reg[presio]</h5>");
+                    echo ("<h5>$reg[presio] MXN$</h5>");
                     echo ("<p class=\"card-text\">$reg[descripcion]</p></div>");
                     echo("<div class=\"card-footer\">");
                     echo("<small class=\"text-muted\">&#9733; &#9733; &#9733; &#9733; &#9734;</small>");
