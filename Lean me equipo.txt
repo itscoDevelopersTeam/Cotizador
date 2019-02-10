@@ -1,6 +1,0 @@
-Importen la base de datos de proyectofinal.sql
-Ojo solo es temporal asta que el chilango termine la de hacer
-la base de datos.
-si desean agregar datos manualmente asegurence de tener una imagen del producto
-a esta imagen le tendran que poner como nombre la "clavedelproducto.jpg"
-guardarla en la carpeta img\catalogoimg.
